@@ -1,6 +1,7 @@
 # ai-gym-dev
+DQN: Simple DQN algorithm to play [MsPacman-V0]((https://gym.openai.com/envs/MsPacman-v0/)) from the open ai gym
 
-Simple DQN algorithm to play [MsPacman-V0]((https://gym.openai.com/envs/MsPacman-v0/)) from the open ai gym
+Will keep adding more algorithms...
 
 **Disclosure**: Most of the code was taken from chapter 8 of "Deep Reinforcement Learning with Python - Second Edition by Sudharsan Ravichandiran", with some alterations and extension  
 
